@@ -1,8 +1,4 @@
 # hello-world
-# 我的 NPU 系统架构图
-
-... (一些描述文字) ...
-
 ```mermaid
 flowchart TD
     subgraph "系统外设与接口"
