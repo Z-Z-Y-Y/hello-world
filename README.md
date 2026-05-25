@@ -8,7 +8,7 @@ flowchart TD
         A4["网络与显示: PCIe, USB, HDMI"]
     end
 
-    subgraph SoC [片上系统 (SoC) - 系统集成视角]
+    subgraph SoC "片上系统 (SoC) - 系统集成视角"
         subgraph "总线与互联"
             B1["系统总线: AMBA APB/AHB"]
             B2["高性能总线: AMBA AXI/CHI"]
